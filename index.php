@@ -9,6 +9,9 @@
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 
+// 加入 autoload.php
+require_once(dirname(__FILE__) . '/vendor/autoload.php');
+
 // 应用入口文件
 
 // 检测PHP环境
